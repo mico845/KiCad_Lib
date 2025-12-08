@@ -246,7 +246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0402贴片陶瓷电容 CAP CER 0.1UF 10V X5R 0402"
+		(property "Description" "0.1uF 0402贴片陶瓷电容 CAP CER 0.1UF 10V X5R 0402"
 			(at 0 -18.796 0)
 			(effects
 				(font

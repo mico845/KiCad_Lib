@@ -244,7 +244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0402贴片厚膜电阻（车规） RES SMD 1K OHM 5% 1/16W 0402"
+		(property "Description" "1K 0402贴片厚膜电阻（车规） RES SMD 1K OHM 5% 1/16W 0402"
 			(at 0 -20.066 0)
 			(effects
 				(font
