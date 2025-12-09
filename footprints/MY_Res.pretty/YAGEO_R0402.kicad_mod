@@ -1,4 +1,4 @@
-(footprint "YAGEO_R0402_Reflow"
+(footprint "YAGEO_R0402"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,15 +16,14 @@
 			)
 		)
 	)
-	(property "Value" "YAGEO_R0402_Reflow"
-		(at 0 1.2 0)
+	(property "Value" "AF0402(YAGEO)"
+		(at 0 0.4 0)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "c2deb94b-5a6d-45c3-84ad-b5e514c5197f")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.1 0.1)
+				(thickness 0.0125)
 			)
 		)
 	)
@@ -69,8 +68,8 @@
 		(start -0.525 0.275)
 		(end 0.525 -0.275)
 		(stroke
-			(width 0.1)
-			(type default)
+			(width 0.01)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
@@ -82,8 +81,8 @@
 		(uuid "a2b1275f-58c7-47ef-9dec-d3013ff00ab0")
 		(effects
 			(font
-				(size 0.2 0.2)
-				(thickness 0.025)
+				(size 0.1 0.1)
+				(thickness 0.0125)
 			)
 		)
 	)
