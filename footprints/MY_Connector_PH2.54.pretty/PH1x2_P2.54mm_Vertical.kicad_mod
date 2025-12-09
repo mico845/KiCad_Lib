@@ -3,8 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
-	(tags "Through hole pin header THT 1x02 2.54mm single row")
+	(descr "Header1x2 P2.54mm 通孔 ADAM TECH")
+	(tags "PH1-02-UA")
 	(property "Reference" "REF**"
 		(at 0 -2.38 0)
 		(layer "F.SilkS")
@@ -39,7 +39,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Header1x2 P2.54mm 通孔 ADAM TECH"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -175,6 +175,16 @@
 		(uuid "35e8882b-4a6a-4e71-9ffb-1953a32260bf")
 	)
 	(fp_line
+		(start -1.27 -1.27)
+		(end -1.27 -0.635)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "26115ef5-ea56-4a20-8305-2361b93d5a68")
+	)
+	(fp_line
 		(start -1.27 -0.635)
 		(end -0.635 -1.27)
 		(stroke
@@ -193,6 +203,16 @@
 		)
 		(layer "F.Fab")
 		(uuid "753abcbc-62a8-4fe4-9cfa-fa9535e04319")
+	)
+	(fp_line
+		(start -0.635 -1.27)
+		(end -1.27 -1.27)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "3ca702de-3855-4dd0-bead-9d6fca2a25f3")
 	)
 	(fp_line
 		(start -0.635 -1.27)
