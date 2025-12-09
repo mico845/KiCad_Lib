@@ -18,14 +18,15 @@
 		)
 	)
 	(property "Value" "AVX_C0402"
-		(at 0 1.5 0)
+		(at 0 0.8 0)
 		(unlocked yes)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "54690e61-b7c8-491d-99aa-9614e0e5a2f9")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.2 0.2)
+				(thickness 0.025)
 			)
 		)
 	)
@@ -253,8 +254,8 @@
 		(uuid "9ae34c00-36f3-47f3-b2b8-595f1d54dd45")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.2 0.2)
+				(thickness 0.025)
 			)
 		)
 	)
