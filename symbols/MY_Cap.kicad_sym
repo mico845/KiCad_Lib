@@ -208,6 +208,72 @@
 			)
 		)
 	)
+	(symbol "C0603"
+		(extends "C")
+		(property "Reference" "C"
+			(at 2.286 0.508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "[N/A] 0603"
+			(at 2.286 -1.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 -13.208 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized 0603 capacitor"
+			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "capacitor cap C0603"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "C0805"
 		(extends "C")
 		(property "Reference" "C"
@@ -367,6 +433,99 @@
 			)
 		)
 	)
+	(symbol "C0603X7R1E102K030BA"
+		(extends "C0603")
+		(property "Reference" "C"
+			(at 2.286 0.508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1nF 10% 25V X7R 0603"
+			(at 2.286 -1.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MY_Cap:TDK_C0603_C"
+			(at 0 -10.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "kicad-embed://TDK_Cap_Cx.pdf"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1nF(0.001uF) 0603贴片陶瓷电容 CAP CER 1000PF 25V X7R 0201"
+			(at 0 -18.542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0603X7R1E102K030BA"
+			(at 0 -14.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK Corporation"
+			(at 0 -16.256 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "详细描述" "1000 pF ±10% 25V 陶瓷电容器 X7R 0201（0603 公制）"
+			(at 0 -22.606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "capacitor cap C0603"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "CC0402KRX5R6BB104"
 		(extends "C0402")
 		(property "Reference" "C2"
@@ -378,7 +537,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF 10% 10V X5R 0402"
+		(property "Value" "100nF 10% 10V X5R 0402"
 			(at 2.032 -1.524 0)
 			(effects
 				(font
@@ -405,7 +564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF 0402贴片陶瓷电容 CAP CER 0.1UF 10V X5R 0402"
+		(property "Description" "100nF(0.1uF) 0402贴片陶瓷电容 CAP CER 0.1UF 10V X5R 0402"
 			(at 0 -18.796 0)
 			(effects
 				(font

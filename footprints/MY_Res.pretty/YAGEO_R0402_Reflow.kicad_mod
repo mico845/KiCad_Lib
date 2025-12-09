@@ -54,26 +54,6 @@
 	)
 	(solder_mask_margin 0.1)
 	(attr smd)
-	(fp_line
-		(start -0.167621 -0.4)
-		(end 0.167621 -0.4)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "7778613c-9f6b-4070-986d-5e34a36e9a99")
-	)
-	(fp_line
-		(start -0.167621 0.4)
-		(end 0.167621 0.4)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "bb36a1d5-0e5f-43e0-b159-157619621b76")
-	)
 	(fp_rect
 		(start -1 -0.5)
 		(end 1 0.5)
