@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "YAGEO Resistor SMD 0402 (1005 Metric) Reflow soldering footprint ")
+	(descr "YAGEO AF0402xx Resistor SMD 0402 (1005 Metric) Reflow soldering footprint ")
 	(tags "resistor handsolder")
 	(property "Reference" "REF**"
 		(at 0 -1.17 0)

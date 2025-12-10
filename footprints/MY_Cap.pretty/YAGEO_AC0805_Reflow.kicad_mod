@@ -1,9 +1,9 @@
-(footprint "YAGEO_C0805_Reflow_A"
+(footprint "YAGEO_AC0805_Reflow"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "YAGEO Capacitor SMD 0805 (2012 Metric) Reflow soldering footprint Automotive grade NPO/X7R/X7S")
+	(descr "YAGEO ACxx Capacitor SMD 0805 (2012 Metric) Reflow soldering footprint Automotive grade NPO/X7R/X7S")
 	(tags "C C0805 Capacitor ")
 	(property "Reference" "REF**"
 		(at 0 -1.7 0)
@@ -12,19 +12,18 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.125)
 			)
 		)
 	)
-	(property "Value" "YAGEO_C0805_Reflow_A"
-		(at 0 1.68 0)
+	(property "Value" "YAGEO_AC0805_Reflow"
+		(at 0 0.9 0)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "7db8b1ac-e959-49ce-83d9-d2076a1e51d9")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.1 0.1)
+				(thickness 0.0125)
 			)
 		)
 	)
@@ -40,7 +39,7 @@
 			)
 		)
 	)
-	(property "Description" "YAGEO Capacitor SMD 0805 (2012 Metric) Reflow soldering footprint Automotive grade NPO/X7R/X7S"
+	(property "Description" "YAGEO ACxx Capacitor SMD 0805 (2012 Metric) Reflow soldering footprint Automotive grade NPO/X7R/X7S"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -69,8 +68,8 @@
 		(start -1.1 -0.725)
 		(end 1.1 0.725)
 		(stroke
-			(width 0.1)
-			(type default)
+			(width 0.01)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
@@ -82,8 +81,8 @@
 		(uuid "7d84d409-3859-44b5-921b-c7558a257152")
 		(effects
 			(font
-				(size 0.3 0.3)
-				(thickness 0.0375)
+				(size 0.2 0.2)
+				(thickness 0.025)
 			)
 		)
 	)

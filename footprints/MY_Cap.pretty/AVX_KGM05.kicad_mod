@@ -1,10 +1,10 @@
-(footprint "AVX_C0402"
+(footprint "AVX_KGM05"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "KYOCERA AVX SMD CAP C0G，NP0 0402（1005 公制）")
-	(tags "04025A180JAT2A ")
+	(descr "KYOCERA AVX KGM05xx Capacitor SMD 0402")
+	(tags "AVX_KGM05")
 	(property "Reference" "REF**"
 		(at 0 -1.4 0)
 		(unlocked yes)
@@ -13,20 +13,19 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.125)
 			)
 		)
 	)
-	(property "Value" "AVX_C0402"
-		(at 0 0.8 0)
+	(property "Value" "AVX_KGM05(0402)"
+		(at 0 0.4 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "54690e61-b7c8-491d-99aa-9614e0e5a2f9")
 		(effects
 			(font
-				(size 0.2 0.2)
-				(thickness 0.025)
+				(size 0.08 0.08)
+				(thickness 0.01)
 			)
 		)
 	)
@@ -42,7 +41,7 @@
 			)
 		)
 	)
-	(property "Description" "KYOCERA AVX SMD CAP C0G，NP0 0402（1005 公制）"
+	(property "Description" "KYOCERA AVX KGM05xx Capacitor SMD 0402"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -100,7 +99,7 @@
 		(start -0.5461 -0.3048)
 		(end -0.5461 0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -110,7 +109,7 @@
 		(start -0.5461 -0.3048)
 		(end -0.5461 0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -120,7 +119,7 @@
 		(start -0.5461 0.3048)
 		(end -0.1397 0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -130,7 +129,7 @@
 		(start -0.5461 0.3048)
 		(end 0.5461 0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -140,7 +139,7 @@
 		(start -0.1397 -0.3048)
 		(end -0.5461 -0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -150,7 +149,7 @@
 		(start -0.1397 0.3048)
 		(end -0.1397 -0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -160,7 +159,7 @@
 		(start 0.1397 -0.3048)
 		(end 0.1397 0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -170,7 +169,7 @@
 		(start 0.1397 0.3048)
 		(end 0.5461 0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -180,7 +179,7 @@
 		(start 0.5461 -0.3048)
 		(end -0.5461 -0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -190,7 +189,7 @@
 		(start 0.5461 -0.3048)
 		(end 0.1397 -0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -200,7 +199,7 @@
 		(start 0.5461 0.3048)
 		(end 0.5461 -0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -210,22 +209,22 @@
 		(start 0.5461 0.3048)
 		(end 0.5461 -0.3048)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
 		(uuid "fa9403b0-6c01-4b55-b6a3-0eeab24676e4")
 	)
 	(fp_circle
-		(center -0.2921 0)
-		(end -0.2921 0)
+		(center -0.6 0)
+		(end -0.57 0)
 		(stroke
-			(width 0.0254)
+			(width 0.01)
 			(type solid)
 		)
-		(fill no)
+		(fill yes)
 		(layer "F.Fab")
-		(uuid "a1aab3a1-796a-4994-a759-01341323941b")
+		(uuid "72ed73e8-5eb3-4c27-85ec-e63af2c433f2")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
@@ -234,21 +233,23 @@
 		(uuid "9ae34c00-36f3-47f3-b2b8-595f1d54dd45")
 		(effects
 			(font
-				(size 0.2 0.2)
-				(thickness 0.025)
+				(size 0.1 0.1)
+				(thickness 0.0125)
 			)
 		)
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at -0.4445 0)
 		(size 0.6096 0.6096)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.3)
 		(uuid "06b21b83-caa4-4752-ae5c-3f15a164cf7f")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at 0.4445 0)
 		(size 0.6096 0.6096)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.3)
 		(uuid "1c274484-9e27-4f37-9f25-14c949ccc642")
 	)
 	(zone

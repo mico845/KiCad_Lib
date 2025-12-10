@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "VishayDale Resistor SMD 0402 Reflow soldering")
+	(descr "VishayDale CRCW0402xx Resistor SMD 0402 Reflow soldering")
 	(tags "R0402")
 	(property "Reference" "REF**"
 		(at 0 -1.2 0)
