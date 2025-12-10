@@ -13,17 +13,16 @@
 			(at 0 5.334 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
 		(property "Value" "24 MHz(±30ppm 20pF)"
-			(at -12.7 -7.366 0)
+			(at 0 -5.588 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
-				(justify left bottom)
 			)
 		)
 		(property "Footprint" "MY_Osc:XTAL_ECS-240-20-30B-TR"
@@ -58,7 +57,7 @@
 			(at 0 -11.938 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
@@ -87,14 +86,14 @@
 				(name "GND"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "2"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -105,14 +104,14 @@
 				(name "IN/OUT"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "1"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -197,14 +196,14 @@
 				(name "OUT/IN"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "3"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -215,14 +214,14 @@
 				(name "GND"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "4"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)

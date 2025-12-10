@@ -14,7 +14,7 @@
 			(at 0 14.224 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
@@ -22,7 +22,7 @@
 			(at 0 -11.684 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
@@ -58,7 +58,7 @@
 			(at 0 -19.304 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
@@ -280,14 +280,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "1"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -298,14 +298,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "2"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -316,14 +316,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "3"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -334,14 +334,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "4"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -352,14 +352,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "5"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -370,14 +370,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "6"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -388,14 +388,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "7"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -406,14 +406,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "8"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -424,14 +424,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "16"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -442,14 +442,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "15"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -460,14 +460,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "14"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -478,14 +478,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "13"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -496,14 +496,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "12"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -514,14 +514,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "11"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -532,14 +532,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "10"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
@@ -550,14 +550,14 @@
 				(name "~"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)
 				(number "9"
 					(effects
 						(font
-							(size 1.016 1.016)
+							(size 1 1)
 						)
 					)
 				)

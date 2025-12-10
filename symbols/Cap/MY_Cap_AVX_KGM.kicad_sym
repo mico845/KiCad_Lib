@@ -17,16 +17,16 @@
 			(at 2.032 0.508 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "[N/A] 0402"
-			(at 2.032 -1.524 0)
+			(at 2.032 -1.016 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -9870,16 +9870,16 @@
 			(at 2.032 0.508 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "18pF 5% 50V C0G/NP0 0402"
-			(at 2.032 -1.524 0)
+			(at 2.032 -0.762 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)

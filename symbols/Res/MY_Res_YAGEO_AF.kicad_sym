@@ -17,7 +17,7 @@
 			(at 1.016 0.762 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -26,7 +26,7 @@
 			(at 1.016 -1.016 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7349,7 +7349,7 @@
 			(at 1.016 0.762 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7358,7 +7358,7 @@
 			(at 1.016 -1.016 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7442,7 +7442,7 @@
 			(at 1.016 0.762 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7451,7 +7451,7 @@
 			(at 1.016 -1.016 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7529,13 +7529,106 @@
 			)
 		)
 	)
+	(symbol "AF0402JR-07330RL"
+		(extends "AF0402XXXXXXXXXL")
+		(property "Reference" "R"
+			(at 1.016 0.762 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "330 5% 1/16 0402"
+			(at 1.016 -1.016 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MY_Res:YAGEO_R0402"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -20.574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "330 0402贴片厚膜电阻（车规） RES SMD 330 OHM 5% 1/16W 0402"
+			(at 0 -18.542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AF0402JR-07330RL"
+			(at 0 -13.716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 -16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "详细描述" "330 Ohms ±5% 0.063W，1/16W 芯片电阻 0402（1005 公制） 耐硫，汽车级 AEC-Q200 汽车认证 厚膜"
+			(at 0 -20.574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "R Resistor R0402 AF0402"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "AF0402JR-074K7L"
 		(extends "AF0402XXXXXXXXXL")
 		(property "Reference" "R"
 			(at 1.016 0.762 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7544,7 +7637,7 @@
 			(at 1.016 -1.016 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)

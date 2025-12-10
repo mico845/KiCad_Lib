@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "VSON10 - TPS2561DRCR")
+	(descr "VSON10 - TPS2561DRC")
 	(tags "VSON TPS2561")
 	(property "Reference" "REF**"
 		(at 0 -2.7 0)
@@ -43,7 +43,7 @@
 			)
 		)
 	)
-	(property "Description" "VSON10 - TPS2561DRCR"
+	(property "Description" "VSON10 - TPS2561DRC"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
