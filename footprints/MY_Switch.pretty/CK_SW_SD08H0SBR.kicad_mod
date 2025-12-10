@@ -16,13 +16,13 @@
 		)
 	)
 	(property "Value" "CK_SW_SD08H0SBR"
-		(at 0 11.865 0)
+		(at 0 11.3 0)
 		(layer "F.Fab")
 		(uuid "047b2393-2fbd-4421-a8b4-2d5cb39d4281")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.4 0.4)
+				(thickness 0.05)
 			)
 		)
 	)
@@ -186,7 +186,7 @@
 		(start -3.34 -10.895)
 		(end -3.34 10.895)
 		(stroke
-			(width 0.127)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -196,7 +196,7 @@
 		(start -3.34 10.895)
 		(end 3.34 10.895)
 		(stroke
-			(width 0.127)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -206,7 +206,7 @@
 		(start 3.34 -10.895)
 		(end -3.34 -10.895)
 		(stroke
-			(width 0.127)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -216,7 +216,7 @@
 		(start 3.34 10.895)
 		(end 3.34 -10.895)
 		(stroke
-			(width 0.127)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -226,7 +226,7 @@
 		(start -5 -9.2)
 		(end -3.4 -8.6)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -237,7 +237,7 @@
 		(start -5 -6.66)
 		(end -3.4 -6.06)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -248,7 +248,7 @@
 		(start -5 -4.12)
 		(end -3.4 -3.52)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -259,7 +259,7 @@
 		(start -5 -1.58)
 		(end -3.4 -0.98)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -270,7 +270,7 @@
 		(start -5 0.96)
 		(end -3.4 1.56)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -281,7 +281,7 @@
 		(start -5 3.5)
 		(end -3.4 4.1)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -292,7 +292,7 @@
 		(start -5 6.04)
 		(end -3.4 6.64)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -303,7 +303,7 @@
 		(start -5 8.58)
 		(end -3.4 9.18)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -314,7 +314,7 @@
 		(start 5 -9.2)
 		(end 3.4 -8.6)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -325,7 +325,7 @@
 		(start 5 -6.66)
 		(end 3.4 -6.06)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -336,7 +336,7 @@
 		(start 5 -4.12)
 		(end 3.4 -3.52)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -347,7 +347,7 @@
 		(start 5 -1.58)
 		(end 3.4 -0.98)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -358,7 +358,7 @@
 		(start 5 0.96)
 		(end 3.4 1.56)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -369,7 +369,7 @@
 		(start 5 3.5)
 		(end 3.4 4.1)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -380,7 +380,7 @@
 		(start 5 6.04)
 		(end 3.4 6.64)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -391,7 +391,7 @@
 		(start 5 8.58)
 		(end 3.4 9.18)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -399,13 +399,13 @@
 		(uuid "fad0ce4e-b883-47a8-93f0-b4407ada404e")
 	)
 	(fp_circle
-		(center -6.25 -8.89)
-		(end -6.15 -8.89)
+		(center -4.2 -8.9)
+		(end -4.1 -8.9)
 		(stroke
-			(width 0.2)
+			(width 0.01)
 			(type solid)
 		)
-		(fill no)
+		(fill yes)
 		(layer "F.Fab")
 		(uuid "8ab116f1-b04a-4988-b2b3-cfe0571aa71d")
 	)
@@ -416,8 +416,8 @@
 		(uuid "8806e114-7a44-4232-9021-3370be5ff3e4")
 		(effects
 			(font
-				(size 0.7 0.7)
-				(thickness 0.0875)
+				(size 0.5 0.5)
+				(thickness 0.0625)
 			)
 		)
 	)

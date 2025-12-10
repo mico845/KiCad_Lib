@@ -318,7 +318,7 @@
 		(start -1.55 1.55)
 		(end 1.55 -1.55)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(fill no)
@@ -329,7 +329,7 @@
 		(center -1.1 -1.1)
 		(end -1 -1)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(fill no)
@@ -343,8 +343,8 @@
 		(uuid "0ee96979-0b49-4714-aaaf-4f71c7b59fbe")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.0625)
+				(size 0.25 0.25)
+				(thickness 0.03125)
 			)
 		)
 	)

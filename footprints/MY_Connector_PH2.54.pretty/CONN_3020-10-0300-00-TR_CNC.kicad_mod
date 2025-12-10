@@ -17,16 +17,15 @@
 			)
 		)
 	)
-	(property "Value" "Header2x5_P2.54mm SMD"
-		(at 0 0 0)
+	(property "Value" "CNC_3020-10-0300-00-TR"
+		(at 0 5.4 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "90cde751-af4d-4433-9723-892bec9ca540")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.5 0.5)
+				(thickness 0.0625)
 			)
 		)
 	)
@@ -190,7 +189,7 @@
 		(start -10.3378 -4.7498)
 		(end -10.3378 3.812)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -200,7 +199,7 @@
 		(start -10.3378 3.812)
 		(end -10.3378 4.7498)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -210,7 +209,7 @@
 		(start -9.4 4.7498)
 		(end -10.3378 3.812)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -220,7 +219,7 @@
 		(start -9.4 4.7498)
 		(end -10.3378 4.7498)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -230,7 +229,7 @@
 		(start -9.4 4.7498)
 		(end 10.3378 4.7498)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -240,7 +239,7 @@
 		(start 10.3378 -4.7498)
 		(end -10.3378 -4.7498)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -250,7 +249,7 @@
 		(start 10.3378 4.7498)
 		(end 10.3378 -4.7498)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -260,7 +259,7 @@
 		(start -5.7 -0.7)
 		(end -4.5 -4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -271,7 +270,7 @@
 		(start -5.7 0.7)
 		(end -4.5 4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -282,7 +281,7 @@
 		(start -3.16 -0.7)
 		(end -1.96 -4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -293,7 +292,7 @@
 		(start -3.16 0.7)
 		(end -1.96 4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -304,7 +303,7 @@
 		(start -1.2 0.3)
 		(end 1.2 4.8)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(fill no)
@@ -315,7 +314,7 @@
 		(start -0.62 -0.7)
 		(end 0.58 -4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -326,7 +325,7 @@
 		(start -0.62 0.7)
 		(end 0.58 4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -337,7 +336,7 @@
 		(start 1.92 -0.7)
 		(end 3.12 -4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -348,7 +347,7 @@
 		(start 1.92 0.7)
 		(end 3.12 4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -359,7 +358,7 @@
 		(start 4.46 -0.7)
 		(end 5.66 -4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)
@@ -370,7 +369,7 @@
 		(start 4.46 0.7)
 		(end 5.66 4.8254)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(fill no)

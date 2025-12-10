@@ -16,14 +16,14 @@
 			)
 		)
 	)
-	(property "Value" "PH1x2_P2.54mm_Vertical"
-		(at 0 4.8 0)
+	(property "Value" "ADAM_PH1-02-UA"
+		(at 0 4.1 0)
 		(layer "F.Fab")
 		(uuid "08cbf525-65de-4e41-aa36-9fb5c07eae46")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.0625)
+				(size 0.3 0.3)
+				(thickness 0.0375)
 			)
 		)
 	)
@@ -178,7 +178,7 @@
 		(start -1.27 -1.27)
 		(end -1.27 -0.635)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -188,7 +188,7 @@
 		(start -1.27 -0.635)
 		(end -0.635 -1.27)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -198,7 +198,7 @@
 		(start -1.27 3.81)
 		(end -1.27 -0.635)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -208,7 +208,7 @@
 		(start -0.635 -1.27)
 		(end -1.27 -1.27)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -218,7 +218,7 @@
 		(start -0.635 -1.27)
 		(end 1.27 -1.27)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -228,7 +228,7 @@
 		(start 1.27 -1.27)
 		(end 1.27 3.81)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -238,7 +238,7 @@
 		(start 1.27 3.81)
 		(end -1.27 3.81)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -250,8 +250,8 @@
 		(uuid "783bd219-a4d7-4ae2-908e-9406b82d46c9")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.0625)
+				(size 0.4 0.4)
+				(thickness 0.05)
 			)
 		)
 	)

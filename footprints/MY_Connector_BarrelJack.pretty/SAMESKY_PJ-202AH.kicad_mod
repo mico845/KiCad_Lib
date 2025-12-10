@@ -24,8 +24,8 @@
 		(uuid "04bd1e08-c16a-4704-a021-ddbb1493cfd6")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.8 0.8)
+				(thickness 0.1)
 			)
 		)
 	)
@@ -152,7 +152,7 @@
 		(start -4.5 -0.7)
 		(end 4.5 -0.7)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -162,7 +162,7 @@
 		(start -4.5 11.2)
 		(end -2.5 11.2)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -172,7 +172,7 @@
 		(start -4.5 13.9)
 		(end -4.5 -0.7)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -182,7 +182,7 @@
 		(start -2.5 12.7)
 		(end -4.5 12.7)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -192,7 +192,7 @@
 		(start -2.5 12.7)
 		(end -2.5 11.2)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -202,7 +202,7 @@
 		(start 2.5 12.7)
 		(end 2.5 11.2)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -212,7 +212,7 @@
 		(start 2.5 12.7)
 		(end 4.5 12.7)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -222,7 +222,7 @@
 		(start 4.5 -0.7)
 		(end 4.5 13.9)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -232,7 +232,7 @@
 		(start 4.5 10.2)
 		(end -4.5 10.2)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -242,7 +242,7 @@
 		(start 4.5 11.2)
 		(end 2.5 11.2)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -252,7 +252,7 @@
 		(start 4.5 13.7)
 		(end -4.5 13.7)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -262,7 +262,7 @@
 		(start 4.5 13.9)
 		(end -4.5 13.9)
 		(stroke
-			(width 0.1)
+			(width 0.01)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -275,8 +275,8 @@
 		(uuid "7fb1e56c-4b59-44b3-8acf-35d3505cd3ed")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.8 0.8)
+				(thickness 0.1)
 			)
 		)
 	)
