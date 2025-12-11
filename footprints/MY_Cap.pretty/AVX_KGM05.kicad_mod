@@ -242,47 +242,15 @@
 		(at -0.4445 0)
 		(size 0.6096 0.6096)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.3)
+		(roundrect_rratio 0.25)
 		(uuid "06b21b83-caa4-4752-ae5c-3f15a164cf7f")
 	)
 	(pad "2" smd roundrect
 		(at 0.4445 0)
 		(size 0.6096 0.6096)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.3)
+		(roundrect_rratio 0.25)
 		(uuid "1c274484-9e27-4f37-9f25-14c949ccc642")
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layer "F.Cu")
-		(uuid "2162c31c-b72b-47b6-8d50-736eea744083")
-		(hatch full 0.508)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.254)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.508)
-			(thermal_bridge_width 0.508)
-		)
-		(polygon
-			(pts
-				(xy -0.0889 -0.254) (xy 0.0889 -0.254) (xy 0.0889 0.254) (xy -0.0889 0.254)
-			)
-		)
 	)
 	(embedded_fonts no)
 	(embedded_files

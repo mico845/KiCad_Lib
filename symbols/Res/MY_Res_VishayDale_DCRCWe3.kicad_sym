@@ -2588,6 +2588,99 @@
 			)
 		)
 	)
+	(symbol "CRCW04021K87FK"
+		(extends "CRCW0402XXXXXXXX")
+		(property "Reference" "R"
+			(at 1.016 0.762 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.87K 1% 1/16W 0402"
+			(at 1.016 -1.016 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MY_Res:VishayDale_CRCW0402"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -20.574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1.87K 0402贴片厚膜电阻（车规） RES 1.87K OHM 1% 1/16W 0402"
+			(at 0 -18.542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW04021K87FK"
+			(at 0 -14.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 0 -16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "详细描述" "1.87 kOhms ±1% 0.063W、1/16W 晶片電阻 0402 (公制 1005) 汽車AEC-Q200 厚膜"
+			(at 0 -20.574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "R Resistor R0402 CRCW040"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "CRCW04021M00JN"
 		(extends "CRCW0402XXXXXXXX")
 		(property "Reference" "R"
@@ -2748,6 +2841,99 @@
 		)
 		(property "详细描述" "4.7 kOhms ±1% 0.063W，1/16W 芯片电阻 0402（1005 公制） 汽车级AEC-Q200 厚膜"
 			(at 0 -23.368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "R Resistor R0402 CRCW040"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "CRCW04024K99FK"
+		(extends "CRCW0402XXXXXXXX")
+		(property "Reference" "R"
+			(at 1.016 0.762 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.99K 1% 1/16W 0402"
+			(at 1.016 -1.016 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MY_Res:VishayDale_CRCW0402"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -20.574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "4.99K 0402贴片厚膜电阻（车规） RES 4.99K OHM 1% 1/16W 0402"
+			(at 0 -18.542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW04024K99FK"
+			(at 0 -14.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 0 -16.002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "详细描述" "4.99 kOhms ±1% 0.063W，1/16W 芯片电阻 0402（1005 公制） 汽车级AEC-Q200 厚膜"
+			(at 0 -20.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
