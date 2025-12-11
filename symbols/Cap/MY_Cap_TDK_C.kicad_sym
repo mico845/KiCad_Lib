@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "C0603XXXXXXXXX"
+	(symbol "C0603XXXXXXXXXXXX"
 		(pin_numbers
 			(hide yes)
 		)
@@ -102,7 +102,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "C0603XXXXXXXXX_0_1"
+		(symbol "C0603XXXXXXXXXXXX_0_1"
 			(polyline
 				(pts
 					(xy -1.524 0.508) (xy 1.524 0.508)
@@ -128,7 +128,7 @@
 				)
 			)
 		)
-		(symbol "C0603XXXXXXXXX_1_1"
+		(symbol "C0603XXXXXXXXXXXX_1_1"
 			(pin passive line
 				(at 0 2.54 270)
 				(length 2.032)
@@ -14858,7 +14858,173 @@
 			)
 		)
 	)
-	(symbol "C2012XXXXXXXXX"
+	(symbol "C1005XXXXXXXXXXXX"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 2.286 0.508 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "[N/A] 0402"
+			(at 2.286 -1.524 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MY_Cap:TDK_C1005"
+			(at 0 -10.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "0402贴片陶瓷电容"
+			(at 0 -19.558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "~"
+			(at 0 -15.494 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK Corporation"
+			(at 0 -17.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "详细描述" "~"
+			(at 0 -21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "capacitor cap C0402"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "C1005XXXXXXXXXXXX_0_1"
+			(polyline
+				(pts
+					(xy -1.524 0.508) (xy 1.524 0.508)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.524 -0.508) (xy 1.524 -0.508)
+				)
+				(stroke
+					(width 0.3302)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "C1005XXXXXXXXXXXX_1_1"
+			(pin passive line
+				(at 0 2.54 270)
+				(length 2.032)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -2.54 90)
+				(length 2.032)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "C2012XXXXXXXXXXXX"
 		(pin_numbers
 			(hide yes)
 		)
@@ -14958,7 +15124,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "C2012XXXXXXXXX_0_1"
+		(symbol "C2012XXXXXXXXXXXX_0_1"
 			(polyline
 				(pts
 					(xy -1.524 0.508) (xy 1.524 0.508)
@@ -14984,7 +15150,7 @@
 				)
 			)
 		)
-		(symbol "C2012XXXXXXXXX_1_1"
+		(symbol "C2012XXXXXXXXXXXX_1_1"
 			(pin passive line
 				(at 0 2.54 270)
 				(length 2.032)
@@ -29715,7 +29881,7 @@
 		)
 	)
 	(symbol "C0603X5R1A103K030"
-		(extends "C0603XXXXXXXXX")
+		(extends "C0603XXXXXXXXXXXX")
 		(property "Reference" "C"
 			(at 2.286 0.508 0)
 			(effects
@@ -29808,7 +29974,7 @@
 		)
 	)
 	(symbol "C0603X5R1A104K030"
-		(extends "C0603XXXXXXXXX")
+		(extends "C0603XXXXXXXXXXXX")
 		(property "Reference" "C"
 			(at 2.286 0.508 0)
 			(effects
@@ -29901,7 +30067,7 @@
 		)
 	)
 	(symbol "C0603X7R1E102K030"
-		(extends "C0603XXXXXXXXX")
+		(extends "C0603XXXXXXXXXXXX")
 		(property "Reference" "C"
 			(at 2.286 0.508 0)
 			(effects
@@ -29993,8 +30159,101 @@
 			)
 		)
 	)
+	(symbol "C1005X7R1H102K050"
+		(extends "C1005XXXXXXXXXXXX")
+		(property "Reference" "C"
+			(at 2.286 0.508 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1nF 10% 50V X7R 0402"
+			(at 2.286 -1.524 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MY_Cap:TDK_C1005"
+			(at 0 -10.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1nF(0.001uF) 0402贴片陶瓷电容 CAP CER 1000PF 50V X7R 0402"
+			(at 0 -19.558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X7R1H102K050"
+			(at 0 -15.494 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK Corporation"
+			(at 0 -17.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "详细描述" "1000 pF ±10% 50V 陶瓷电容器 X7R 0402（1005 公制）"
+			(at 0 -21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "capacitor cap C0402"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "C2012X7R1C105K125"
-		(extends "C2012XXXXXXXXX")
+		(extends "C2012XXXXXXXXXXXX")
 		(property "Reference" "C"
 			(at 2.286 0.508 0)
 			(effects
