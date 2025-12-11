@@ -40,7 +40,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB-A（USB TYPE-A）连接器  CONN RCPT USB2.0 TYPEA 4POS R/A"
+		(property "Description" "USB-A（USB TYPE-A）2.0连接器  CONN RCPT USB2.0 TYPEA 4POS R/A"
 			(at 0 -29.718 0)
 			(effects
 				(font
@@ -10343,7 +10343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB-B（USB TYPE-B）连接器 CONN RCPT USB2.0 TYPEB 4POS R/A"
+		(property "Description" "USB-B（USB TYPE-B）2.0连接器 CONN RCPT USB2.0 TYPEB 4POS R/A"
 			(at 0 -30.734 0)
 			(effects
 				(font

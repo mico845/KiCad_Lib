@@ -17,7 +17,7 @@
 				)
 			)
 		)
-		(property "Value" "PJ-202AH"
+		(property "Value" "5A(max)"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -56,9 +56,8 @@
 			(at 0 -7.874 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
-				(hide yes)
 			)
 		)
 		(property "Manufacturer" "SAME SKY DEVICE"
