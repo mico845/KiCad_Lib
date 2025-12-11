@@ -1,9 +1,10 @@
-(footprint "CK_SW_SD08H0SBR"
+(footprint "CK_SW_SD08H0SB"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "拨码开关x8 表贴")
+	(tags "SD08H0SB")
 	(property "Reference" "REF**"
 		(at 0 -12.7 0)
 		(layer "F.SilkS")
@@ -15,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CK_SW_SD08H0SBR"
+	(property "Value" "CK_SW_SD08H0SB"
 		(at 0 11.3 0)
 		(layer "F.Fab")
 		(uuid "047b2393-2fbd-4421-a8b4-2d5cb39d4281")
