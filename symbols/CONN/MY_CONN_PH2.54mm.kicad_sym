@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MY_Connector_PH2.54:CONN_3020-10-0300-00-TR_CNC"
+		(property "Footprint" "MY_Connector_PH2.54:CNC_302010030000TR"
 			(at 0 -10.668 0)
 			(effects
 				(font

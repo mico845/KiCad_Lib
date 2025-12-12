@@ -410,6 +410,19 @@
 		(layer "F.Fab")
 		(uuid "8ab116f1-b04a-4988-b2b3-cfe0571aa71d")
 	)
+	(fp_text user "1"
+		(at -3.25 -8.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2bf27ec4-1d12-4aba-8c1c-6a8ac5e7480a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
