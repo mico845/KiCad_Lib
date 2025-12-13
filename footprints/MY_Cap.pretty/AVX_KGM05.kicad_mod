@@ -53,47 +53,18 @@
 			)
 		)
 	)
-	(solder_mask_margin 0.1)
+	(solder_mask_margin 0.07)
 	(attr smd)
-	(fp_line
-		(start -0.9017 -0.4572)
-		(end 0.9017 -0.4572)
+	(fp_rect
+		(start -0.9 -0.5)
+		(end 0.9 0.5)
 		(stroke
-			(width 0.1524)
-			(type solid)
+			(width 0.05)
+			(type default)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "63527671-ac83-4ca7-b529-4cc5abdde7af")
-	)
-	(fp_line
-		(start -0.9017 0.4572)
-		(end -0.9017 -0.4572)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "d80bb303-4da3-4d4d-82ab-9d53a2a89dc5")
-	)
-	(fp_line
-		(start 0.9017 -0.4572)
-		(end 0.9017 0.4572)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "ea04661c-78c6-45d3-939c-c82f68b5f0fa")
-	)
-	(fp_line
-		(start 0.9017 0.4572)
-		(end -0.9017 0.4572)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "c4ba63fd-a59b-436f-b460-849faa4de3db")
+		(uuid "8e61e8e4-9995-4206-87bb-ad4e20056bd0")
 	)
 	(fp_line
 		(start -0.5461 -0.3048)
